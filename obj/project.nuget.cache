@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGbYyPGsIfyW9G4LuIAZMCOXSx5t+7OOIg7EOD0ytovcSTgaXAlBJKaGaX30vfmD0JPk3f/ZlNRak5JV1FwPBQ==",
+  "success": true,
+  "projectFilePath": "C:\\vsprog\\lessons2\\ExceptionsOOP2\\ExceptionsOOP2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
